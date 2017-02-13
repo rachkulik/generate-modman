@@ -1,5 +1,5 @@
 {
-    "name":"generate-modman/generate-modman",
+    "name":"rachkulik/generate-modman",
     "description":"Automatically generate modman file for Magento 1 modules on the fly",
     "minimum-stability":"dev",
     "license":"MIT",
