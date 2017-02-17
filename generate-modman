@@ -26,6 +26,7 @@ function _handle_input() {
             ;;
         --include_all_files)
             include_all_files=1
+            include_others_files=1
             argument_found=1
             ;;
         --include-others)
